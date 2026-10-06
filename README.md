@@ -93,6 +93,4 @@ The current design uses:
 
 This is a **review-based product discovery prototype**, not a complete e-commerce recommendation engine. It does not model real-time inventory, current prices, clickstream behavior, purchase history, collaborative filtering, or personalized user profiles.
 
-## Interview takeaway
 
-> The project demonstrates the complete RAG loop: represent the user's intent as an embedding, retrieve semantically relevant evidence, and generate a response grounded in that evidence.
